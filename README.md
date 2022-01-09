@@ -49,7 +49,6 @@
 
 ➡️ [more videos...][youtube]
 
----
 
 <!--### 📕 Latest Blog Posts-->
 
@@ -63,7 +62,6 @@
 
 <!--➡️ [more blog posts...](https://codestackr.com)-->
 
----
 <!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>-->
