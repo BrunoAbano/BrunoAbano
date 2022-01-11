@@ -5,7 +5,6 @@
 
 - 🔭 I'm currently working on a single web page!
 - 🌱 I’m currently learning node.js
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn Python and PHP
 - ⚡ Fun fact: I love to play ukulele
 - 📫 How to reach me: brunix.abanix@gmail.com
