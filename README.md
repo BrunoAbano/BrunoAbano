@@ -83,7 +83,7 @@
 
 </details> -->
 
-[website]: https://brunoabano.github.io/portfolio/
+[website]: https://brunoabano.github.io/Portfolio/
 [youtube]: https://www.youtube.com/channel/UCZcyCEQ6BZe1eN4dcsRXpFw
 [instagram]: https://www.instagram.com/bruno.abano/
 [linkedin]: https://www.linkedin.com/in/bruno-abano/
