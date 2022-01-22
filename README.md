@@ -5,13 +5,14 @@
 
 - 🔭 I'm currently working on a single web page!
 - 🌱 I’m currently learning node.js
+- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn Python and PHP
 - ⚡ Fun fact: I love to play ukulele
 - 📫 How to reach me: brunix.abanix@gmail.com
 
 ### Connect with me:
 
-[<img align="left" alt="BrunoAbanoPort" width="22px" src="https://brunoabano.github.io/Portfolio/" />][website]
+[<img align="left" alt="BrunoAbanoPort" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="BrunoAbano | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="BrunoAbano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BrunoAbano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
